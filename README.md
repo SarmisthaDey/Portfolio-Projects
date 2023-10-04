@@ -7,7 +7,7 @@ It mainly consists of projects related to Data Analysis, Data cleaning, Data exp
 **Language/Software used:** SQL, Python, Excel, Jupyter Notebook, SSMS
 
 # SQL
-I used SQL Server Management Studio to complete the SQL projects. This repository consists of data cleaning and data exploration projects using SQL. Skills used in these two projects are DDL and DML query, Joins, CTE's (Common Table Expressions), Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types. 
+I used MSSQL Server to complete the SQL projects. This repository consists of data cleaning and data exploration projects using SQL. Skills used in these two projects are DDL and DML query, Joins, CTE's (Common Table Expressions), Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types. 
 
 # Excel
 For the Excel Full Project, I created a dashboard on coffee sales and you can see the output below for reference. I plan to work on creating a different or expanding on this dashboard to test my skills in the future. Few functions that I used for preparing the data and creating this dashboard are XLOOKUP, INDEX, MATCH, IF function, date formatting, number formatting, duplicate removal, range to table creation, pivot table, pivot chart(line chart, column chart), filter and slicer.
